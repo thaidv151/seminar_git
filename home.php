@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-        <h1>Hello world</h1>
+    <h1>Đây là home mà đã qua sửa</h1>
 </body>
-</html>~
+</html>
